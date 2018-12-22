@@ -22,6 +22,8 @@ const isIphoneX =
 
 const isAndroidRTL = I18nManager.isRTL && Platform.OS === 'android';
 
+console.log("isAndroidRTL : ",isAndroidRTL);
+
 export default class AppIntroSlider extends React.Component {
   static defaultProps = {
     activeDotStyle: {

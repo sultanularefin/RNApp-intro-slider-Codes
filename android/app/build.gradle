@@ -146,6 +146,7 @@ android {
 }
 
 dependencies {
+    compile project(':react-native-extra-dimensions-android')
     compile project(':react-native-vector-icons')
     // implementation project(':react-native-app-tour')
     implementation fileTree(dir: "libs", include: ["*.jar"])

@@ -1,0 +1,4 @@
+#Sat Dec 22 11:24:54 BDT 2018
+base.0=/home/arefin/NNN/react-native-app-intro-slider-withoutExpo/Example/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

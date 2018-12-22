@@ -21,7 +21,9 @@
     "react-native": "0.57.5",
     "react-native-app-intro-slider": "latest",
     "react-native-linear-gradient": "^2.5.3",
-    "react-native-vector-icons": "6.1.0"
+    "react-native-vector-icons": "6.1.0",
+    "react-native-extra-dimensions-android": "^0.22.0"
+
   },
   "devDependencies": {
     "@babel/core": "7.2.0",
